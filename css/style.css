@@ -37,22 +37,6 @@ p {
   font-weight: bolder;
   text-indent: 50px;
 }
-
-.onepieceanchor {
-  color: white;
-  font-family: 'Google Sans', sans-serif;
-  font-weight: bolder;
-  font-size: 1.2em;
-}
-
-/*
-a:hover {
-  background-color: red;
-  color: white;
-  border-radius: 20px;
-}
-*/
-
 /* Built-in element customs end */
 
 /* Background customs start */
@@ -114,7 +98,6 @@ a:hover {
   background-repeat: no-repeat;
   margin: auto;
 }
-
 /* Background customs end */
 
 /*Code for animated background*/
